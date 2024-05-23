@@ -1,7 +1,7 @@
 import express from "express";
 import{PORT, MONGODBURL } from './config.js'
 import { MongoClient, ServerApiVersion }from "mongodb"
-const app = express()
+const app = express() 
 
 
 
